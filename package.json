@@ -16,7 +16,8 @@
     "element-ui": "^2.11.1",
     "nuxt": "^2.0.0",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.2"
+    "stylus-loader": "^3.0.2",
+    "vue-burger-menu": "^2.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
