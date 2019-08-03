@@ -42,7 +42,7 @@ export default {
     align-items center
     justify-content space-between
     padding 0 20px
-    position relative
+    position fixed
     @media(max-width: 1075px)
         justify-content flex-start
     &__signup
